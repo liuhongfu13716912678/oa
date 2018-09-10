@@ -13,3 +13,4 @@ fix bug 360
 yxx
 fmn
 local ok
+github ok
